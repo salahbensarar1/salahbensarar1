@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, Firebase, AWS**
 
 💬 Ask me about **Flutter, C, Firebase... or anything [here](https://github.com/salahbensarar1)**
 
