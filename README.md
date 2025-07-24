@@ -127,9 +127,24 @@
 
 ## 📊 GitHub Analytics
 
+<h2 align="center">⚡ GitHub Statistics ⚡</h2>
+
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=salahbensarar1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=salahbensarar1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=salahbensarar1&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=salahbensarar1&show_icons=true&theme=react&rank_icon=github&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahbensarar1&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
