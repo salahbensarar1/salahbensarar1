@@ -130,26 +130,15 @@
 <h2 align="center">⚡ GitHub Statistics ⚡</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=salahbensarar1&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=salahbensarar1&show_icons=true&theme=react&rank_icon=github&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahbensarar1&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=salahbensarar1&show_icons=true&theme=react&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=salahbensarar1&theme=react&hide_border=true&count_private=true" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahbensarar1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=salahbensarar1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahbensarar1&layout=compact&theme=react&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=salahbensarar1&bg_color=ffffff&color=fc6d26&line=fc6d26&point=fc6d26&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <hr/>
